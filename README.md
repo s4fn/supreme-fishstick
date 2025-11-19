@@ -1,4 +1,4 @@
-# BIG Python Utility 🚀
+# BIG Python Utility 🚀 (supreme fishstick)
 
 A comprehensive, massive Python utility toolkit with **100+ functions** across 11 powerful modules!
 
